@@ -1,0 +1,2 @@
+# ANIMA
+Examensprojekt IA/System
